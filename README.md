@@ -5,7 +5,7 @@
 I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
 
 [![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_onepiece@163.com)](mailto:lzwgxust@163.com)
-[![QQ 邮箱](https://img.shields.io/badge/QQ-D14836)](mailto:2898175301@qq.com)
+[![Tencent QQ](https://img.shields.io/badge/Tencent%23QQ-%2312B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](mailto:2898175301@qq.com)
 <!-- [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](url) -->
 
 - 🚀 I use daily:
