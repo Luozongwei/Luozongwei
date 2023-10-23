@@ -43,7 +43,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://www.lzwgxust.top/)
 
 
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/Luozongwei/count.svg)](https://www.lzwgxust.top/) visitor, Thank You!🎉🎉
+<!-- Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/Luozongwei/count.svg)](https://www.lzwgxust.top/) visitor, Thank You!🎉🎉 -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&theme=flag-india)](https://github.com/all-smile/github-readme-stats) -->
 
@@ -87,6 +87,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/Luozongw
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
 </div>
+
 
 </td>
 <td valign="top" width="33%">
