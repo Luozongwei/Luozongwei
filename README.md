@@ -25,23 +25,26 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 - 💻 I work using:
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://www.lzwgxust.top/)
   [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.lzwgxust.top/)
-  [![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)](https://www.lzwgxust.top/)
-  [![GoLand](https://img.shields.io/badge/-GoLand-000?logo=goland&logoColor=00ACC1)](https://www.lzwgxust.top/)
   [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://www.lzwgxust.top/)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://www.lzwgxust.top/)
   [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://www.lzwgxust.top/)
+  [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.lzwgxust.top/)
+  [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://www.lzwgxust.top/)
 
 - ⚙️ I also use and work:
   [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.lzwgxust.top/)
   [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://www.lzwgxust.top/)
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://www.lzwgxust.top/)
   [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)](https://www.lzwgxust.top/)
-  [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://www.lzwgxust.top/)
+  [![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)](https://www.lzwgxust.top/)
+  [![GoLand](https://img.shields.io/badge/-GoLand-000?logo=goland&logoColor=00ACC1)](https://www.lzwgxust.top/)
+
 
 - 🌱 I’m currently learning:
   [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://www.lzwgxust.top/)
   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://www.lzwgxust.top/)
   [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.lzwgxust.top/)
+  [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://www.lzwgxust.top/)
 
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/Luozongwei/count.svg)](https://www.lzwgxust.top/) visitor, Thank You!🎉🎉
