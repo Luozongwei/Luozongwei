@@ -42,7 +42,6 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 
 - 🌱 I’m currently learning:
   [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://www.lzwgxust.top/)
-  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://www.lzwgxust.top/)
   [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.lzwgxust.top/)
   [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://www.lzwgxust.top/)
 
